@@ -1,7 +1,7 @@
 # PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
 PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
 
-.PHONY: all images styles
+.PHONY: all images styles deploy
 
 statuten: verein/Verein.md
 	touch verein/Verein.md
@@ -20,13 +20,20 @@ _site/%.html: _site/%.html.partial
 		; sed -n '/{{ content }}/,$$p' template.html \
 		) | grep -v '{{ content }}' > $@
 
-styles:
+_site/styles:
 	cp main.css _site/css/
 
-images:
+_site/images: _site/images/logo.png _site/favicon.ico
 	cp images/*.png _site/images/
 
-all: $(PAGES) verein/Ottos_Plattenbau_Vereinstatuten.pdf images styles
+_site/favicon.ico: images/Logo_Otto_Productions.svg
+	convert images/Logo_Otto_Productions.svg -resize 256x256 images/favicon.png
+	convert images/favicon.png -resize x128 _site/favicon.ico
+
+_site/images/logo.png: images/Logo_Otto_Productions.svg
+	convert images/Logo_Otto_Productions.svg -resize x300 _site/images/logo.png
+
+all: $(PAGES) verein/Ottos_Plattenbau_Vereinstatuten.pdf _site/images _site/styles
 	echo Build Complete
 
 deploy: all
