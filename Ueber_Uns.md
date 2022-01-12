@@ -19,4 +19,4 @@ Wir wollen es Musiker ermöglichen Musik zu machen, Aufnahmen und Distribution v
 Das Musikerkollektiv Ottos Plattenbau ist gleichzeitig ein Verein in der Schweiz nach OR X/Y.
 Dieses Musikkollektiv basiert auf basisdemokratischen, egalitären und konsensfördernden Prinzipien.
 
-Für weitere Informationen siehe die [Vereinstatuten](/verein/Verein.html).
+Für weitere Informationen siehe die [Vereinsstatuten](/verein/Verein.html).
