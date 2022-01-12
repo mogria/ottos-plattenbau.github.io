@@ -1,4 +1,4 @@
 
 Das Musiker Kollektiv Ottos Plattenbau.
 
-![Logo Ottos Plattenbau](images/Logo_Otto_Productions.png)
+![Logo Ottos Plattenbau](images/logo_big.png)
