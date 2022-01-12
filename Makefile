@@ -1,6 +1,8 @@
 # PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
 PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
 
+.PHONY: all images styles
+
 statuten: verein/Verein.md
 	touch verein/Verein.md
 
@@ -24,7 +26,7 @@ styles:
 images:
 	cp images/*.png _site/images/
 
-all: $(PAGES) verein/Ottos_Plattenbau_Vereinstatuten.pdf images
+all: $(PAGES) verein/Ottos_Plattenbau_Vereinstatuten.pdf images styles
 	echo Build Complete
 
 deploy: all
