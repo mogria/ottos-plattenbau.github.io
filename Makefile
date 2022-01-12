@@ -1,5 +1,5 @@
 # PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
-PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
+PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
 
 statuten: verein/Verein.md
 	touch verein/Verein.md
@@ -18,9 +18,15 @@ _site/%.html: _site/%.html.partial
 		; sed -n '/{{ content }}/,$$p' template.html \
 		) | grep -v '{{ content }}' > $@
 
-all: $(PAGES) verein/Ottos_Plattenbau_Vereinstatuten.pdf
-	jekyll build
+styles:
+	cp main.css _site/css/
+
+images:
+	cp images/*.png _site/images/
+
+all: $(PAGES) verein/Ottos_Plattenbau_Vereinstatuten.pdf images
+	echo Build Complete
 
 deploy: all
-	rsync _site -Cavz otto-deploy@codeanarchy.org:ottopage/_site
+	rsync _site -Cavz otto-deploy@codeanarchy.org:ottopage/
 
