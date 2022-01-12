@@ -6,12 +6,17 @@
                 <title>Ottos Plattenbau | Musiklabel | Zrich </title>
 
                 <style type="text/css" media="screen">
+html { font-size: 150%;
+       background-image: url(images/bgpattern.png);
+       background-repeat: repeat repeat;
+       background-size: 16px 16px;
+}
+
 html, body { margin: 0; padding; 0;
-             font-size: 16pt; font-family: "Arial", "Liberation Sans", sans-serif;
-             background-color: #333;
+             font-family: "Arial", "Liberation Sans", sans-serif;
+             background-color: #111;
              color: #DDD;
            }
-
 
 ul li a { text-decoration: none;}
 a:link { color:red; }
@@ -21,23 +26,25 @@ a:hover { text-decoration: underline; }
 
 p, a { font-size: inherit; }
 
-.container { display:block; width: 60em; margin: 0 auto; background-color: rgba(127, 127, 127, 80); }
+.container { display:block; width: 40em; margin: 0 auto;
+    background-color: rgba(32, 32, 32, .8);
+    box-shadow: 0em 0em 1em 1em #111; }
 
 header, section#content, footer {
   padding: 1em 2em;
-  border-bottom: 0.5em solid #DDD;
+  border-bottom: 0.5em solid #999;
 }
 
 header { }
 header #logo {
   margin: 1em;
   display: block; float: left;
-border-bottom: 0.5em solid #DDD;
+border-bottom: 0.5em solid #999;
 }
 
 nav ul { list-style-type: none; }
 nav ul li { display: inline-block; }
-nav ul li a { display: inline-block; width: 20em; }
+nav ul li a { display: inline-block; width: 4em; }
 
 section#content { margin: 4em 2em; }
 
