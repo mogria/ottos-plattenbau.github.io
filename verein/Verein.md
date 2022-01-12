@@ -1,6 +1,6 @@
 # Musikerkollektiv Otto's Plattenbau
 
-![Otto's Production Logo](Logo_Otto_Productions.png)
+![Otto's Production Logo](../images/Logo_Otto_Productions.png)
 
 ## Vereinstatuten (DRAFT)
 
