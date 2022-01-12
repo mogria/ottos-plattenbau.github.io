@@ -1,0 +1,6 @@
+mainfont: Helvetica
+lang: de-CH
+documentclass: article
+fontenc: T1
+geometry:
+  - margin=3cm
