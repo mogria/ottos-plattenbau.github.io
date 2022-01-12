@@ -90,8 +90,10 @@ In der folgenden Auflistung sind die Organe und deren Funktionen genauer beschri
 * **Vereinspräsident**:  
   Der Vereinspräsident hat dieselben Rechte und Pflichten wie alle anderen Mitglieder.
   An jeder Generalversammlung wird beschlossen wer Vereinspräsident ist. Der Vereinspräsident, ist genau wie jedes andere Vereinsmitglied, kann aber, wenn dieser dies möchte, Öffentlichkeitsarbeit im Sinne des Vereinszwecks einbringen.
+  Zudem kann der Vereinspräsident wie andere Mitglieder Versammlungen einberufen.
 * **Kassier**:  
-  Der Kassier wird ebenfalls an der Generalversammlung ausgesucht. Er ist verantwortlich für die Vereinsfinanzen und Vereinskonti.
+  Die beiden Kassier werden ebenfalls an der Generalversammlung ausgesucht.
+  Sie beide ist verantwortlich für die Vereinsfinanzen und Vereinskonti und kontrollieren sich gegenseitig.
 
 ### Mitgliedschaft
 
