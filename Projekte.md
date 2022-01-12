@@ -1,6 +1,6 @@
 # Projekte
 
-Verschiedene Bandprojekte oder Mitglieder von folgenden Musikprojekten arbeiten zusammen mit Otto's Plattenbau:
+Verschiedene Bandprojekte oder Mitglieder von folgenden Musikprojekten arbeiten zusammen mit Ottos Plattenbau:
 
 * **Nero Kroma**: Solo-Projekt von Adam Stoev, Sound Cloud: https://soundcloud.com/nero-kroma
 * **The Broken Stringthesizer Theory**: Moritz und Adi erzeugen mit einer Mischung von Trace Sounds und Gitarre Musik, Looping Geräten und anderen Feedbackmechanismen, Klangwelten die einem in Bewegung bringt.
@@ -12,7 +12,7 @@ Zudem sind weitere Musikprojekte von weiteren Mitglieder am entstehen, welche in
 
 ## Weitere verwandte Musikprojekte
 
-Andere Projekte von Mitgliedern und Bekannten von Otto's Plattenbau:
+Andere Projekte von Mitgliedern und Bekannten von Ottos Plattenbau:
 
 Sound Cloud von Adam Stoev: https://soundcloud.com/adam-stoev
 Band von Moritz: [Güssl](httpsL//xn--gssl-0ora.ch)

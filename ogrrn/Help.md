@@ -24,9 +24,11 @@ Welches Jeweils im Betreff der EMail-Nachricht mit dem beistehenden kürz.
 
 ## Help Mogr the Ogr
 
-Alle wichtigen Dokumente für das Label Otto's Plattenbau sind hier aufzufinden:
+Alle wichtigen Dokumente für das Label Ottos Plattenbau sind hier aufzufinden:
 
-[Otto's Plattenbau Collective auf CodeBerg.org](https://codeberg.org/mkuettel/ottos-plattenbau-collective/src/branch/master)
+[Ottos Plattenbau Collective auf CodeBerg.org](https://codeberg.org/mkuettel/ottos-plattenbau-collective/src/branch/master)
+
+Auch können Dort Pull-Requests und Issues erstellt werden.
 
 ## Instant-Messaging
 

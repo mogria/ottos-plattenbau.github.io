@@ -1,6 +1,6 @@
-# Webseite des Labels "Otto's Plattenbau"
+# Webseite des Labels "Ottos Plattenbau"
 
-Alle wichtigen Vereinsinternen Dokumente und die Webseite des Musiklabel Otto's Plattenbau ist im diesem Repository abgelegt.
+Alle wichtigen Vereinsinternen Dokumente und die Webseite des Musiklabel Ottos Plattenbau ist im diesem Repository abgelegt.
 
 Die Live-Webseite ist verfügbar unter: https://otto.gleet.ch
 Dokumente auf der `master`-Branch in dieser Repository sollten automatisch auf der Live-Webseite reflektiert werden.

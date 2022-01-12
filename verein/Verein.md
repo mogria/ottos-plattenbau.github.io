@@ -1,18 +1,18 @@
-# Musikerkollektiv Otto's Plattenbau
+# Musikerkollektiv Ottos Plattenbau
 
-![Otto's Production Logo](../images/Logo_Otto_Productions.png)
+![Ottos Production Logo](../images/Logo_Otto_Productions.png)
 
 ## Vereinstatuten (DRAFT)
 
 _Wichtig_: Es handelt sich hierbei um einen Entwurf, der noch nicht von der Generalversammlung verabschiedet wurde.
 
-Beim Musikerkollektiv "Otto's Plattenbau" handelt es sich um einen zusammenschluss von Musikern,
+Beim Musikerkollektiv "Ottos Plattenbau" handelt es sich um einen zusammenschluss von Musikern,
 welche gerne als Verein zusammenarbeiten wollen und ihre Musikprojekte gerne umsetzen wollen.
 Der Verein versteht sich als gemeinnützige, egalitäre und schwach hierarchische Organisation.
 
 ## Zweck
 
-Der Zweck des Musikerkollektiv's Otto's Plattenbau ist es:
+Der Zweck des Musikerkollektiv's Ottos Plattenbau ist es:
 
 1. Musik zu geniessen
 2. Musikbegeisterte zusammenzubringen
@@ -137,11 +137,11 @@ TODO: Entscheiden über Vereinsitz
 
 **Mitgliederliste:**
 
-* Moritz Küttel
-* Adam Stoev
-* Linda
-* Moritz Köhler
-* Marcello Hurst
+<!-- * Moritz Küttel -->
+<!-- * Adam Stoev -->
+<!-- * Linda -->
+<!-- * Moritz Köhler -->
+<!-- * Marcello Hurst -->
 
 TODO: Gründungsmitglieder
 TODO: Entscheiden wer Präsident ist
