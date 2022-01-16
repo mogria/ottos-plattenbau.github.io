@@ -7,6 +7,9 @@ Verschiedene Bandprojekte oder Mitglieder von folgenden Musikprojekten arbeiten 
 * **H(Ä)RT**: Duo-Projekt, mit Bass und Drum-Machine, HC/Power-Violence
 * **Fried Neurons**: Bandprojekt in Entwicklung
 * **Schadensfall**: Ein Trio welches eine Stoner Rock Band bilden.
+* **Jonny Kiff**: Hip Hop / Deutschrap mit Paddl & mogle
+
+
 
 Zudem sind weitere Musikprojekte von weiteren Mitglieder am entstehen, welche in Zukunft hier aufgelistet werden.
 
