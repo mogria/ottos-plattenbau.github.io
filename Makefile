@@ -1,12 +1,11 @@
-# PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
-PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
+PAGES= _site/Gallery.html _site/index.html _site/Projekte.html _site/README.html _site/Help.html _site/verein/index.html
 
 .PHONY: all images styles deploy
 
 statuten: verein/Verein.md
 	touch verein/Verein.md
 
-verein/Ottos_Plattenbau_Vereinstatuten.pdf: verein/Verein.md
+verein/Ottos_Plattenbau_Vereinstatuten.pdf: verein/statuten.md
 	pandoc -f markdown -t pdf verein/Verein.md -o Ottos_Plattenbau_Vereinstatuten.pdf
 
 _site/%.html.partial: %.md pandoc-settings.yml

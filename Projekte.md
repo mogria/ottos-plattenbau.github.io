@@ -10,7 +10,6 @@ Verschiedene Bandprojekte oder Mitglieder von folgenden Musikprojekten arbeiten 
 * **Jonny Kiff**: Hip Hop / Deutschrap mit Paddl & mogle
 
 
-
 Zudem sind weitere Musikprojekte von weiteren Mitglieder am entstehen, welche in Zukunft hier aufgelistet werden.
 
 ## Weitere verwandte Musikprojekte
