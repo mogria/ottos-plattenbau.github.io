@@ -1,0 +1,38 @@
+
+html, body { margin: 0; padding: 0;
+             min-height: 100%;
+           }
+
+/** respect users scren size & font size setting */
+html { font-size: 100%; }
+
+
+/** readable font-size everywhere */
+body { font-size: 125%;
+}
+
+ul li a { text-decoration: none;}
+a:hover {
+  text-decoration: underline;
+}
+
+
+h1 { font-size: 2.0rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1.0rem; font-weight: bold;}
+h6 { font-size: 1.0rem; font-weight: bold; font-style: italic; }
+h3, h4, a:hover {
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: 0.125rem;
+}
+
+header h1 {
+  text-decoration: none;
+}
+
+header h1:hover {
+  text-decoration: underline;
+}
