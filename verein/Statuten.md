@@ -9,18 +9,11 @@
 
 _Wichtig_: Es handelt sich hierbei um einen Entwurf, der noch nicht von der Generalversammlung verabschiedet wurde.
 
+Beim Musikkollektiv "Ottos Plattenbau" handelt es sich um einen Verein (Art. 60ff ZGB) und Zusammenschluss von Musizierenden.
+Wir wollen uns als Verein zusammenschliessen (Art. 23 Bundesverfassung), um ihre Musikprojekte umzusetzen und um einen gemeinsamen Ort zu haben um Kreatives schaffen.
 
-Beim Musikkollektiv "Ottos Plattenbau" handelt es sich um einen zusammenschluss von Musizierenden,
-die sich als Verein zusammenschliessen wollen, um ihre Musikprojekte umzusetzen und einen gemeinsamen Ort für Kreatives schaffen ermöglichen.
 Der Verein soll Kunstschaffenden ermöglichen oder Ihre künstlerischen Tätigkeiten auszuüben, die mit Darbietungen von Musik (und deren Distribution?) zusammenhängen.
 Der Verein versteht sich als basisdemokratische, gemeinnützige, egalitäre und schwach hierarchische Organisation.
-
-
-> Art. 23 Bundesverfassung
-> (1) Die Vereinigungsfreiheit ist gewährleistet.
-> (2) Jede Person hat das Recht, Vereinigungen zu bilden, Vereinigungen beizutreten oder anzugehören und sich an den Tätigkeiten von Vereinigungen zu beteiligen.
-> (3) Niemand darf gezwungen werden, einer Vereinigung beizutreten oder anzugehören.
-
 
 ## Zweck
 
@@ -39,10 +32,10 @@ jedem Mitglied ein sognenanntes Veto zusteht.
 Zudem wird für jede Entscheidung theoretisch jede Stimme jedes Mitgliedes benötigt.
 Da dies jedoch umständlich wäre jedes mal Stimmen zu zählen um zu sehen ob jedes Mitglied zustimmt,
 soll ein Mitglied einfach seine Stimme erheben und ein Veto einlegen, um die Entscheidung zu verhindern,
-mehr darüber zu diskurieren, um schlussendlich irgendwie einen Konsens zu finden.
+mehr darüber zu diskutieren, um schlussendlich irgendwie einen Konsens zu finden.
 Solche Konsensmechanismen haben die Problematik, dass diese Entscheidungsprozesse verlangsamen können oder 
 gar Entscheidungen blockiert werden können.
-Jedoch ist Transparenz hoch geschrieben und die einzellnen Mitglieder können weitgehend autonom auf gleicher Ebene
+Jedoch ist Transparenz hoch geschrieben und die einzelnen Mitglieder können weitgehend autonom auf gleicher Ebene
 Entscheidungen treffen.
 
 Jedoch Art XXX ZGB benötigt ein Verein folgende Organe:

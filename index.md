@@ -5,7 +5,7 @@ Das Musikkollektiv Ottos Plattenbau ist ein [Verein](/verein/Verein.html) für M
 
 ## News
 
-- *2022/01/15*: **Webseite nun Live**: Die Webseite von Ottos Plattenbau ist nun erstmal auf https://otto.gleet.ch Livegeschalten worden.
+- *2022/01/15*: **Webseite nun Live**: Die Webseite von Ottos Plattenbau ist nun erst mal auf https://otto.gleet.ch aufgeschalten worden.
 
 ## Neuste Projekte
 

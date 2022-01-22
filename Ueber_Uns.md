@@ -1,7 +1,6 @@
-Wir sind ein Freundes und Bekanntenkreis aus Musikbegeisterten Personen aus der Umgebung Zürich.
+Wir sind ein Freundes- und Bekanntenkreis aus Musikbegeisterten Personen aus der Umgebung Zürich.
 
-Inspieriert von diversen Musikrichtungen von elektronischer-, klassischer-, Rock über Punk und Breakcore bis hin zu Drum'n'Bass, sowie Zahlreichen Live-Auftritten und Veranstaltungen, haben wir uns im Jahre 2021 dazu entschlossen mehr an die Musikszene in Zürich, der Schweiz und weltweit zurückzugeben.
-
+Inspiriert von diversen Musikrichtungen von elektronischer-, klassischer-, Rock über Punk und Breakcore bis hin zu Drum'n'Bass, sowie zahlreichen Auftritten und Veranstaltungen, haben wir uns im Jahre 2021 dazu entschlossen mehr an die Musikszene in Zürich, der Schweiz und weltweit zurückzugeben.
 
 ## Kontakt
 
@@ -14,9 +13,10 @@ Die Mitglieder Anzahl ist noch beschränkt. Sobald dem Verein mehr Raum zur Verf
 
 ## Verein
 
-Wir wollen es Musiker ermöglichen Musik zu machen, Aufnahmen und Distribution von Musikermöglichen, sowie Auftritte und Veranstaltungen zu ermöglichen.
-
-Das Musikerkollektiv Ottos Plattenbau ist gleichzeitig ein Verein in der Schweiz nach OR X/Y.
+Wir wollen es Musizierenden helfen Musik zu machen,
+Aufnahmen zu erstellen und diese zu verbreiten.
+Zudem wollen wir auch Auftritte und Veranstaltungen zu ermöglichen.
+Das Musikkollektiv [Ottos Plattenbau](/verein/Verein.html) ist gleichzeitig ein Verein in der Schweiz nach Art. 60ff ZGB.
 Dieses Musikkollektiv basiert auf basisdemokratischen, egalitären und konsensfördernden Prinzipien.
 
 Für weitere Informationen siehe die [Vereinsstatuten](/verein/Verein.html).
