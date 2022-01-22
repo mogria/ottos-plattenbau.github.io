@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}Page: {{ page.title }}{% endblock %}
+{% block content %}
+<table class="page-meta">
+<tr><td>Title:</td><td>{{ page.title }}</td></tr>
+<tr><td>Description:</td><td>{{ page.description }}</td></tr>
+<tr><td>Date:</td><td>{{ page.date }}</td></tr>
+<tr><td>Draft:</td><td>{{ page.draft }}</td></tr>
+<tr><td>Slug:</td><td>{{ page.slug }}</td></tr>
+<tr><td>Path:</td><td>{{ page.path }}</td></tr>
+<tr><td>Permalink:</td><td>{{ page.permalink }}</td></tr>
+<tr><td>Relativer link:</td><td>{{ page.relative_path }}</td></tr>
+<tr><td>Summary:</td><td>{{ page.summary }}</td></tr>
+<tr><td>Anzahl Woerter:</td><td>{{ page.word_count }}</td></tr>
+
+
+</table>
+{% if not page.draft %}
+	<div class="warning"> Warning: This is still an early draft version.</div>
+{% endif %}
+
+Language: {{ page.lang }}
+
+<table>
+{% if page.taxnomies %}
+{% for tax in page.taxonomies %}
+ {{ tax }}
+{% endfor %}
+{% endif %}
+</table>
+
+<table>
+{% for t in page.toc %}
+ {{ t }}
+{% endfor %}
+</table>
+
+{% for translation in page.translations %}
+{% endfor %}
+
+{% endblock %}
