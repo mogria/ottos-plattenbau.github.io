@@ -11,5 +11,4 @@ Mehr dazu auf der [Projekte Seite](/Projekte.html).
 
 ## News
 
-
-
+- *2022/01/15*: **Webseite nun Live**: Die Webseite von Ottos Plattenbau ist nun erstmal auf https://otto.gleet.ch Livegeschalten worden.
