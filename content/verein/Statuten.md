@@ -1,3 +1,6 @@
++++
+title = "Vereinsstatuten: Musikkollektiv Ottos Plattenbau"
++++
 # Musikkollektiv Ottos Plattenbau
 
 ![Ottos Production Logo](../images/logo_big.png)
@@ -10,7 +13,7 @@
 _Wichtig_: Es handelt sich hierbei um einen Entwurf, der noch nicht von der Generalversammlung verabschiedet wurde.
 
 Beim Musikkollektiv "Ottos Plattenbau" handelt es sich um einen Verein (Art. 60ff ZGB) und Zusammenschluss von Musizierenden.
-Wir wollen uns als Verein zusammenschliessen (Art. 23 Bundesverfassung), um ihre Musikprojekte umzusetzen und um einen gemeinsamen Ort zu haben um Kreatives schaffen.
+Wir wollen uns als Verein zusammenschliessen (Art. 23 Bundesverfassung), um ihre Musikprojekte umzusetzen und um einen gemeinsamen Ort zu haben um Kreatives schaffen. ()
 
 Der Verein soll Kunstschaffenden ermöglichen oder Ihre künstlerischen Tätigkeiten auszuüben, die mit Darbietungen von Musik (und deren Distribution?) zusammenhängen.
 Der Verein versteht sich als basisdemokratische, gemeinnützige, egalitäre und schwach hierarchische Organisation.
@@ -45,10 +48,88 @@ Jedes dieser Organe ist verpflichtet sich bei der Entscheidungsfindung und Besch
 
 ### Organe
 
+Die Vereinsorganisation beschreiben in den Vereinsstatuten haben nach Art. 63 ZGB folgendes Verhältnis zum Gesetz:
+
+> 1. Soweit die Statuten über die Organisation und über das Verhältnis des Vereins zu seinen Mitgliedern keine Vorschriften aufstellen, fin­den die nachstehenden Bestimmungen Anwendung.
+> 2. Bestimmungen, deren Anwendung von Gesetzes wegen vorgeschrie­ben ist, können durch die Statuten nicht abgeändert werden.
+
+I. Vereins­ver­samm­lung
+1. Bedeutung und Einberufung
+Art. 64
+1 Die Versammlung der Mitglieder bildet das oberste Organ des Vereins.
+2 Sie wird vom Vorstand einberufen.
+3 Die Einberufung erfolgt nach Vorschrift der Statuten und überdies von Gesetzes wegen, wenn ein Fünftel der Mitglieder die Einberu­fung verlangt.
+
+2. Zuständigkeit
+Art. 65
+1 Die Vereinsversammlung beschliesst über die Aufnahme und den Aus­schluss von Mitgliedern, wählt den Vorstand und entscheidet in allen An­gelegenheiten, die nicht andern Organen des Vereins über­tragen sind.
+2 Sie hat die Aufsicht über die Tätigkeit der Organe und kann sie jederzeit abberu­fen, unbeschadet der Ansprüche, die den Abberufenen aus bestehenden Verträgen zustehen.
+3 Das Recht der Abberufung besteht, wenn ein wichtiger Grund sie rechtfertigt, von Gesetzes wegen.
+
+3. Vereins­beschluss
+a. Beschluss­fassung
+Art. 66
+1 Vereinsbeschlüsse werden von der Vereinsversammlung gefasst.
+2 Die schriftliche Zustimmung aller Mitglieder zu einem Antrag ist einem Be­schlusse der Vereinsversammlung gleichgestellt.
+
+b. Stimmrecht und Mehrheit
+Art. 67
+1 Alle Mitglieder haben in der Vereinsversammlung das gleiche Stimm­recht.
+2 Die Vereinsbeschlüsse werden mit Mehrheit der Stimmen der an­we­senden Mit­glieder gefasst.
+3 Über Gegenstände, die nicht gehörig angekündigt sind, darf ein Beschluss nur dann gefasst werden, wenn die Statuten es ausdrücklich gestatten.
+
+c. Ausschliessung vom Stimmrecht
+Art. 68
+Jedes Mitglied ist von Gesetzes wegen vom Stimmrechte ausge­schlos­sen bei der Beschlussfassung über ein Rechtsgeschäft oder ei­nen Rechtsstreit zwischen ihm, seinem Ehegatten oder einer mit ihm in gerader Linie verwandten Person einerseits und dem Vereine an­der­seits.
+
+II. Vorstand
+1. Rechte und Pflichten im Allgemeinen
+Art. 69
+Der Vorstand hat das Recht und die Pflicht, nach den Befugnissen, die die Statuten ihm einräumen, die Angelegenheiten des Vereins zu besorgen und den Verein zu vertreten.
+
+2. Buchführung
+Art. 69a84
+
+Der Vorstand führt die Geschäftsbücher des Vereins. Die Vorschriften des Obligationenrechts85 über die kaufmännische Buchführung und Rechnungslegung gelten sinngemäss.
+
+84 Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), (AS 2007 4791; BBl 2002 3148, 2004 3969). Fassung gemäss Anhang Ziff. 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 (AS 2012 6679; BBl 2008 1589).
+
+85 SR 220
+III. Revisions­stelle
+Art. 69b86
+
+1 Der Verein muss seine Buchführung durch eine Revisionsstelle ordentlich prüfen lassen, wenn zwei der nachstehenden Grössen in zwei aufeinander folgenden Geschäftsjahren überschritten werden:
+
+1.
+    Bilanzsumme von 10 Millionen Franken;
+2.
+    Umsatzerlös von 20 Millionen Franken;
+3.
+    50 Vollzeitstellen im Jahresdurchschnitt.
+
+2 Der Verein muss seine Buchführung durch eine Revisionsstelle eingeschränkt prüfen lassen, wenn ein Vereinsmitglied, das einer per­sönlichen Haftung oder einer Nachschusspflicht unterliegt, dies verlangt.
+
+3 Die Vorschriften des Obligationenrechts87 über die Revisionsstelle bei Aktiengesellschaften sind entsprechend anwendbar.
+
+4 In den übrigen Fällen sind die Statuten und die Vereinsversammlung88 in der Ordnung der Revision frei.
+
+86 Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 (AS 2007 4791; BBl 2002 3148, 2004 3969).
+
+87 SR 220
+
+88 Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – SR 171.10).
+IV. Mängel in der Organisation
+Art. 69c89
+1 Fehlt dem Verein eines der vorgeschriebenen Organe oder verfügt er über kein Rechtsdomizil an seinem Sitz mehr, so kann ein Mitglied oder ein Gläubiger dem Gericht beantragen, die erforderlichen Massnahmen zu ergreifen.90
+2 Das Gericht kann dem Verein insbesondere eine Frist zur Wieder­herstellung des rechtmässigen Zustandes ansetzen und, wenn nötig, einen Sachwalter ernennen.
+3 Der Verein trägt die Kosten der Massnahmen. Das Gericht kann den Verein verpflichten, den ernannten Personen einen Vorschuss zu leis­ten.
+4 Liegt ein wichtiger Grund vor, so kann der Verein vom Gericht die Abberufung von Personen verlangen, die dieses eingesetzt hat.
+
+
 In der folgenden Auflistung sind die Organe und deren Funktionen genauer beschrieben:
 
-* **Generalversammlung**:  
-  Die Generalversammlung ist, das oberste und höchste Organ.
+* **Vereinsversammlung / Generalversammlung**:  
+  Die Generalversammlung ist, das oberste und höchste Organ. (Art. 64 ZGB)
   Die Traktanden über das Diskutiert und Entschieden wird an der GV muss 6 Tage Vorhinein, aus Gründen der Transparenz, an alle Mitglieder verschickt werden.
   Zu Beginn einer Generalversammlung wird empfohlen, kurz ein wenig zusammen etwas Musik zu geniessen.
   Sie findet einmal jährlich statt worin jedes Vereinsmitglied Vorstösse vorzubringen.
@@ -73,6 +154,42 @@ In der folgenden Auflistung sind die Organe und deren Funktionen genauer beschri
 
 ### Mitgliedschaft
 
+I. Ein- und Aus­tritt
+1 Der Eintritt von Mitgliedern kann jederzeit erfolgen.
+2 Der Austritt ist von Gesetzes wegen zulässig, wenn er mit Beobachtung einer halbjährigen Frist auf das Ende des Kalenderjahres oder, wenn eine Verwaltungsperiode vorgesehen ist, auf deren Ende angesagt wird.
+3 Die Mitgliedschaft ist weder veräusserlich noch vererblich.
+II. Beitragspflicht
+Art. 7191
+
+Beiträge können von den Mitgliedern verlangt werden, sofern die Statu­ten dies vorsehen.
+
+91 Fassung gemäss Ziff. I des BG vom 17. Dez. 2004 (Festlegung der Beitragspflicht von Vereinsmitgliedern), in Kraft seit 1. Juni 2005 (AS 2005 2117; BBl 2004 4835 4843).
+III. Ausschliessung
+Art. 72
+
+1 Die Statuten können die Gründe bestimmen, aus denen ein Mitglied ausge­schlossen werden darf, sie können aber auch die Ausschlies­sung ohne Angabe der Gründe gestatten.
+
+2 Eine Anfechtung der Ausschliessung wegen ihres Grundes ist in die­sen Fällen nicht statthaft.
+
+3 Enthalten die Statuten hierüber keine Bestimmung, so darf die Aus­schliessung nur durch Vereinsbeschluss und aus wichtigen Gründen erfolgen.
+IV. Stellung aus­ge­schiedener Mitglie­der
+Art. 73
+
+1 Mitglieder, die austreten oder ausgeschlossen werden, haben auf das Ver­einsvermögen keinen Anspruch.
+
+2 Für die Beiträge haften sie nach Massgabe der Zeit ihrer Mitglied­schaft.
+V. Schutz des Ver­einszweckes
+Art. 74
+
+Eine Umwandlung des Vereinszweckes kann keinem Mitgliede auf­ge­nötigt werden.
+VI. Schutz der Mit­gliedschaft
+Art. 75
+
+Beschlüsse, die das Gesetz oder die Statuten verletzen, kann jedes Mitglied, das nicht zugestimmt hat, von Gesetzes wegen binnen Monatsfrist, nachdem es von ihnen Kenntnis erhalten hat, beim Gericht anfechten.
+Cbis. Haftung
+Art. 75a92
+
+Für die Verbindlichkeiten des Vereins haftet das Vereinsvermögen. Es haftet ausschliesslich, sofern die Statuten nichts anderes bestimmen.
 Grundsätzlich kann jeder Mitglied des Vereins werden, wenn sich diese Person gut mit einem der Vereinsmitglieder versteht.
 Ein Vereinsmitglied kann neue Mitglieder mit Absprache mit andern Mitglieder.
 Dasselbe Vereinsmitglied vouched bis zu einem gewissen Grad für das neue Mitglied
@@ -87,6 +204,10 @@ Es sollte nie dazu kommen, das ein Mitglied vom Verein ausgeschlossen wird.
 Falls dies jedoch z.B. Aufgrund von böswilligen Absichten oder Verhalten trotzdem nötig wäre,
 wäre dies an einer Generalversammlung möglich.
 Ein Ausschluss eines Mitglieds vom Verein sollte bestenfalls konstruktiv enden, sonst aber immer auf gegenseitigem Verständnis bestehen.
+
+Art. 65
+
+1 Die Vereinsversammlung beschliesst über die Aufnahme und den Aus­schluss von Mitgliedern, wählt den Vorstand und entscheidet in allen An­gelegenheiten, die nicht andern Organen des Vereins über­tragen sind.
 
 ## Mittel
 
@@ -105,7 +226,13 @@ TODO: Haftung
 Besteht ein Verlust, haftet ausschliesslich das Vereinskonto. In keiner weise Haften Mitlieder des Vereins.
 Der Verein macht keinen Gewinn, sondern würde diesen allenfalls dazu nutzen die Mitgliederbeiträge zu senken oder zu reinvestieren im Sinne des Vereinszwecks.
 
+## Auflösung
+
+Die Auflösung des Vereins kann jederzeit durch Vereinsbeschluss herbeigeführt werden. (Art. 76 ZGB)
+
 ## Vereinsinformationen
+
+Ist der Verein im Handelsregister eingetragen, so hat der Vorstand oder das Gericht dem Registerführer die Auflösung behufs Löschung des Eintrages mitzuteilen.
 
 ### Vereinssitz
 

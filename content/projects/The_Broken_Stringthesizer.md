@@ -1,3 +1,7 @@
++++
+projectname = "The Broken Stringthesizer Theory"
+formed_in = 2021
++++
 # The Broken Stringthesizer Theory
 
 Beim Sound von the Broken Stringthesizer Theory wird probiert elektronische Musik mit Gitarre und diversen Effekten zu kombinieren.

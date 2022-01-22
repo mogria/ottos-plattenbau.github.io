@@ -1,3 +1,6 @@
++++
+projectname = "Studio"
++++
 # Studio
 
 Um Musik aufzunehmen und unter dem Label Releasen zu können wird ein Studio benötigt.

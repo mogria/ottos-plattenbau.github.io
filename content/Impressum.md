@@ -1,3 +1,6 @@
++++
+title = "Impressum"
++++
 # Impressum
 
 Verantwortlich für den Inhalt der Seiten:

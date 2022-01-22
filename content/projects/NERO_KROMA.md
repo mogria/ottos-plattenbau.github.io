@@ -1,3 +1,6 @@
++++
+projectname = "Nero Kroma"
++++
 # Nero Kroma
 
 ![Nero Kroma](/images/gallery/adam_live.png)

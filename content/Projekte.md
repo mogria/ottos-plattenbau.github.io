@@ -1,3 +1,6 @@
++++
+title = "Projekte"
++++
 # Projekte
 
 Bei Ottos Plattenbau sollen sich verschiedene Musizierende austauschen und treffen können, um eigenen Musikprojekte

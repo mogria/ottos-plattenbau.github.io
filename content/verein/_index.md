@@ -1,3 +1,6 @@
++++
+title = "Verein"
++++
 # Verein
 
 Beim Musikkollektiv "Ottos Plattenbau" handelt es sich um einen Zusammenschluss von Musizierenden.
@@ -53,4 +56,4 @@ Dort können auch Pull-Requests mit Änderungsvorschlägen oder Issues für Bugs
 <!-- ## Instant-Messaging -->
 <!--  -->
 <!-- Frage eines der Mitglieder welches du kennst über Signal an, ob er dich in den Signal Gruppen Chat aufnehmen will. -->
-<!-- Du solltest dann immer informiert werden was Vereinsintern von statten geht. -->
+<-- Du solltest dann immer informiert werden was Vereinsintern von statten geht. -->

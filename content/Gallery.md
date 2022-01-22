@@ -1,3 +1,6 @@
++++
+title = "Gallerie"
++++
 # Gallerie
 
 Hier sind und sollen weiterhin grossartige Momente festgehalten werden.

@@ -1,3 +1,6 @@
++++
+title = "Home"
++++
 # Home
 Das Musikkollektiv Ottos Plattenbau ist ein [Verein](/verein/Verein.html) für Musik- und Kulturschaffende in Zürich und der Umgebung.
 
