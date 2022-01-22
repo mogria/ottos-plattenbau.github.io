@@ -15,6 +15,8 @@ Verschiedene Bandprojekte oder Musizierende sind Teil von, oder arbeiten einfach
 
 Zudem sind mit dem neuen Studio weitere Musikprojekte von weiteren Mitglieder am Entstehen, welche in Zukunft hier aufgelistet werden.
 
+![Accoustic Guitar and Bass Amp](/images/accoustic-guitar.jpg)
+
 ## Weitere verwandte Musikprojekte
 
 Diese Musikprojekte sind nicht direkt Teil von Ottos Plattenbau.
