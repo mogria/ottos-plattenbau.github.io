@@ -13,7 +13,7 @@ html, body { margin: 0; padding; 0;
              min-height: 100%;
            }
 
-html { font-size: 150%;
+html { font-size: 100%;
     background-image: url(/images/bgpattern.png);
        background-repeat: repeat repeat;
        background-size: 16px 16px, 100% ;
@@ -21,7 +21,7 @@ html { font-size: 150%;
 }
 
 
-body { font-size: 100%;
+body { font-size: 125%;
     background-color: transparent;
     background-image: url(/images/schallplatte.png);
     background-repeat: no-repeat no-repeat;
@@ -30,47 +30,47 @@ body { font-size: 100%;
 }
 
 ul li a { text-decoration: none;}
-a:link { color:red; }
-a:visited { color:orange; }
+a:link { color: #F22; }
+a:visited { color: #F92; }
 a:hover { text-decoration: underline; }
 
-h1 { font-size: 1.5em; }
-h2 { font-size: 1.25em; }
-h3 { font-size: 1.25em; }
-h4 { font-size: 1.0em; }
-h5 { font-size: 1.0em; font-weight: bold;}
-h6 { font-size: 1.0em; font-weight: bold; font-style: italic; }
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.0rem; }
+h5 { font-size: 1.0rem; font-weight: bold;}
+h6 { font-size: 1.0rem; font-weight: bold; font-style: italic; }
 h1, h2, h3, h4 {
   text-decoration: underline;
   text-decoration-style: solid;
-  text-decoration-thickness: 0.125em;
+  text-decoration-thickness: 0.125rem;
   text-decoration-color: #999;
 }
 
 
-p, a { font-size: inherit; }
+/* p, a { font-size: inherit; } */
 
-.container { display:block; width: 40em; margin: 1em auto;
+.container { display:block; width: 60rem; margin: 1rem auto;
     background-color: rgba(32, 32, 32, .8); }
 
 header, section#content, footer {
-  margin: 2em auto;
-  padding: 2em 2em;
-  border-bottom: 0.5em solid #999;
+  margin: 2rem auto;
+  padding: 2rem 2rem;
+  border-bottom: 0.5rem solid #999;
   background-color: rgba(32, 32, 32, .8);
-  box-shadow: 0em 0em 1em 1em #111;
+  box-shadow: 0rem 0rem 1rem 1rem #111;
 }
 
-header.container { margin-top: 0em; padding-top: 1em; }
+header.container { margin-top: 0rem; padding-top: 1rem; }
 header #logo {
   display: block; float: left;
-  margin: 0em 2em 1em 0em;
-  padding: 2em;
-  border: 0.125em solid #111;
-  border-bottom: 0.5em solid #999;
+  margin: 0rem 2rem 1rem 0rem;
+  padding: 2rem;
+  border: 0.125rem solid #111;
+  border-bottom: 0.5rem solid #999;
   background-color: #222;
-  box-shadow: 0 0 0.5em 0.5em #222;
-  width: 14em;
+  box-shadow: 0 0 0.5rem 0.5rem #222;
+  width: 20rem;
 }
 header h1 {
   text-decoration: none;
@@ -80,16 +80,22 @@ header h1 {
 nav ul { list-style-type: none; }
 nav ul li { display: inline-block; }
 
-header nav ul li a { display: inline-block; width: 6em; }
-footer nav ul li a { display: inline-block; padding: 0.5em 1em; }
+header nav ul li a { display: inline-block;
+    margin: 0.5rem 0rem; padding: 0.5rem 1rem; width: 8rem;
+  border-left: 0.25rem solid #999;
+}
+header nav ul li a:hover { border-left-color: #F22; }
+header nav ul li a:active { border-left-color: #F92; }
+footer nav ul li a { display: inline-block;
+    padding: 0.5rem 1rem; }
 
-section#content { margin: 4em auto;
-    padding-top: 1em;
+section#content { margin: 4rem auto;
+    padding-top: 1rem;
 }
 section#content img { max-width: 100%; }
 section#content > h1 {
-    padding-top: 0em;
-    margin-top: 0em;
+    padding-top: 0rem;
+    margin-top: 0rem;
 
 }
 
