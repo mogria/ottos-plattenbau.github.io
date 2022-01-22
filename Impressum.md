@@ -1,12 +1,11 @@
 # Impressum
 
-Verantwortlich für den Inhalt der Seiten
+Verantwortlich für den Inhalt der Seiten:
 
-Verein Ottos Plattenbau
-vertreten durch Moritz Küttel
-Rotbuchstrasse 1
-8006 Zürich
-
+Verein Ottos Plattenbau  
+vertreten durch Moritz Küttel  
+Rotbuchstrasse 1  
+8006 Zürich  
 [moritz_kuettel@fastmail.com](mailto:moritz_kuettel@fastmail.com)
 
 ## Copyright
