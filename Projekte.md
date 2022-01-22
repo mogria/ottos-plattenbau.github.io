@@ -1,21 +1,28 @@
 # Projekte
 
-Verschiedene Bandprojekte oder Mitglieder von folgenden Musikprojekten arbeiten zusammen mit Ottos Plattenbau:
+Bei Ottos Plattenbau sollen sich verschiedene Musizierende austauschen und treffen können, um eigenen Musikprojekte
+auf die Beine zu stellen.
+Verschiedene Bandprojekte oder Musizierende sind Teil von, oder arbeiten einfach zusammen, mit Ottos Plattenbau:
 
 * [**Nero Kroma**](/projects/NERO_KROMA.html): Solo-Projekt von [Adam Stoev](https://soundcloud.com/adam-stoev), [Nero Kroma auf Sound Cloud](https://soundcloud.com/nero-kroma)
-* **The Broken Stringthesizer Theory**: Moritz und Adi erzeugen mit einer Mischung von Trace Sounds und Gitarre Musik, Looping Geräten und anderen Feedbackmechanismen, Klangwelten die einem in Bewegung bringt.
+* [**The Broken Stringthesizer Theory**](/projects/The_Broken_Stringthesizer.html): Moritz und Adi erzeugen mit einer Mischung von Trace Sounds und Gitarre Musik, Looping Geräten und anderen Feedbackmechanismen, Klangwelten die einem in Bewegung bringt.
 * [**H(Ä)RT**](/projects/HAERT.html): Duo-Projekt, mit Bass und Drum-Machine, HC/Power-Violence
+* [**Aufnahmestudio**](/projects/Studio.html): Gemeinsames Aufnahmestudio / Proberaum
+
 <!-- * **Fried Neurons**: Bandprojekt in Entwicklung -->
 <!-- * **Schadensfall**: Ein Trio welches eine Stoner Rock Band bilden. -->
 <!-- **Jonny Kiff**: Hip Hop / Deutschrap mit Paddl & mogle -->
-* [**Aufnahmestudio**](/projects/Studio.html): Gemeinsames Aufnahmestudio / Proberaum
 
-
-Zudem sind weitere Musikprojekte von weiteren Mitglieder am entstehen, welche in Zukunft hier aufgelistet werden.
+Zudem sind mit dem neuen Studio weitere Musikprojekte von weiteren Mitglieder am Entstehen, welche in Zukunft hier aufgelistet werden.
 
 ## Weitere verwandte Musikprojekte
 
-Andere Projekte von Mitgliedern und Bekannten von Ottos Plattenbau:
+Diese Musikprojekte sind nicht direkt Teil von Ottos Plattenbau.
+Es bestehen jedoch schon lange Bekanntschaften wie auch Partnerschaften:
 
-Sound Cloud von Adam Stoev: https://soundcloud.com/adam-stoev
-Band von Moritz: [Güssl](httpsL//xn--gssl-0ora.ch)
+* Sound Cloud von Adi:  
+  https://soundcloud.com/adam-stoev
+* Weitere HC-Punk-Band Band wo Moritz schon 7 Jahre lang Bass spielt:  
+  [Güssl HC/Punx us Zug](httpsL//xn--gssl-0ora.ch)
+
+<!-- * Free-Tekkno: [Anemic Vulgarius](https://soundcloud.com/anemic-vulgarius) -->
