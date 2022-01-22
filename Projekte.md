@@ -2,9 +2,9 @@
 
 Verschiedene Bandprojekte oder Mitglieder von folgenden Musikprojekten arbeiten zusammen mit Ottos Plattenbau:
 
-* **Nero Kroma**: Solo-Projekt von Adam Stoev, Sound Cloud: https://soundcloud.com/nero-kroma
+* **Nero Kroma**: Solo-Projekt von [Adam Stoev](https://soundcloud.com/adam-stoev), [Nero Kroma auf Sound Cloud](https://soundcloud.com/nero-kroma)
 * **The Broken Stringthesizer Theory**: Moritz und Adi erzeugen mit einer Mischung von Trace Sounds und Gitarre Musik, Looping Geräten und anderen Feedbackmechanismen, Klangwelten die einem in Bewegung bringt.
-* **H(Ä)RT**(/projects/HAERT.html): Duo-Projekt, mit Bass und Drum-Machine, HC/Power-Violence
+* [**H(Ä)RT**](/projects/HAERT.html): Duo-Projekt, mit Bass und Drum-Machine, HC/Power-Violence
 <!-- * **Fried Neurons**: Bandprojekt in Entwicklung -->
 <!-- * **Schadensfall**: Ein Trio welches eine Stoner Rock Band bilden. -->
 <!-- **Jonny Kiff**: Hip Hop / Deutschrap mit Paddl & mogle -->
