@@ -38,10 +38,10 @@ a:hover {
   text-decoration-color: #F92;
 }
 
-h1 { font-size: 1.5rem; }
-h2 { font-size: 1.25rem; }
+h1 { font-size: 2.0rem; }
+h2 { font-size: 1.5rem; }
 h3 { font-size: 1.25rem; }
-h4 { font-size: 1.0rem; }
+h4 { font-size: 1.25rem; }
 h5 { font-size: 1.0rem; font-weight: bold;}
 h6 { font-size: 1.0rem; font-weight: bold; font-style: italic; }
 h1, h2, h3, h4, a:hover {
@@ -77,9 +77,10 @@ header #logo {
 }
 header #logo img { filter: drop-shadow(0 0 0.25rem #222); }
 header #logo img:hover { filter: drop-shadow(0 0 0.25rem #F22); }
+header #logo img:active { filter: drop-shadow(0 0 0.25rem #F92); }
 
 header #logo:hover{
-  box-shadow: 0em 0em 1rem 1rem #111;
+  box-shadow: 0em 0em 1rem 1rem rgba(32, 32, 32, 0.8);
   border-bottom-color: #922;
 }
 
@@ -112,13 +113,14 @@ section#content { margin: 4rem auto;
 }
 section#content img { max-width: 100%; }
 section#content > h1 {
-    padding-top: 0rem;
-    margin-top: 0rem;
+  padding: 0.5em 0em;
+  margin-top: 0em;
+  border-bottom: 0.5rem solid #999;
 
 }
 
-footer nav {
-    text-align: center;
+footer {
+  text-align: center;
 }
                 </style>
         </head>
@@ -127,7 +129,7 @@ footer nav {
 
           <header class="container">
             <div id="logo">
-              <img src="/images/logo.png" height="300" alt="Logo Otto">
+              <a href="/"><img src="/images/logo.png" height="300" alt="Logo Otto"></a>
               <h1>Ottos Plattenbau</h1>
 
               Ein Label und Musikkollektiv
