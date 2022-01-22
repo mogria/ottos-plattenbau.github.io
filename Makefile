@@ -7,7 +7,7 @@ statuten: verein/Statuten.md
 	touch verein/Statuten.md
 
 _site/verein/Ottos_Plattenbau_Vereinstatuten.pdf: verein/Statuten.md
-	pandoc -f markdown -t pdf verein/Statuten.md -o _site/verein/ Ottos_Plattenbau_Vereinstatuten.pdf
+	pandoc -f markdown -t pdf verein/Statuten.md -o _site/verein/Ottos_Plattenbau_Vereinstatuten.pdf
 
 _site/%.html.partial: %.md pandoc-settings.yml
 		pandoc --from gfm --to html \
