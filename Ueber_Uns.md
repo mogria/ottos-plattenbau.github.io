@@ -7,7 +7,7 @@ Inspiriert von diversen Musikrichtungen von elektronischer-, klassischer-, Rock 
 ## Kontakt
 
 Um in den Kontakt zu treten mit dem Verein bitte eine E-Mail an folgende Adresse senden:  
-[moritz_kuettel@fastmail.com](mailto:moritz_kuettel@fastmail.com?subject=Kontaktanfrage%20Webseite%20Ottosplattenbau)
+[ottos_plattenbau@fastmail.com](mailto:ottos_plattenbau@fastmail.com?subject=kontaktanfrage%20webseite%20ottosplattenbau)
 
 Über diese Adresse werden auch Mitgliederanträge für den Verein bearbeitet.
 Die Mitglieder Anzahl ist noch beschränkt. Sobald dem Verein mehr Raum zur Verfügung steht kann dieser auch organisch langsam wachsen.
