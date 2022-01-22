@@ -1,5 +1,5 @@
 # PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
-PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/projects/HAERT.html _site/projects/NERO_KROMA.html _site/projects/Studio.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html _site/verein/Statuten.html _site/Impressum.html
+PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/projects/HAERT.html _site/projects/The_Broken_Stringthesizer.html _site/projects/NERO_KROMA.html _site/projects/Studio.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html _site/verein/Statuten.html _site/Impressum.html
 
 .PHONY: all images styles deploy
 
@@ -26,11 +26,12 @@ _site/styles:
 _site/images: _site/images/logo.png
 	cp images/*.png _site/images/
 
-_site/favicon.ico: images/Logo_Otto_Productions.svg _site/images/bgpattern.png _site/favicon.ico _site/images/schallplatte.jpg
+_site/favicon.ico: images/Logo_Otto_Productions.svg _site/images/bgpattern.png _site/favicon.ico _site/images/schallplatte.jpg _site/images/redguitar.png
 	convert images/Logo_Otto_Productions.svg -resize 256x256 images/favicon.png
 	convert images/favicon.png -resize x128 _site/favicon.ico
 	convert images/bgpattern.png -resize 16x16 _site/images/bgpattern.png
 	convert images/schallplatte.png -resize x500 _site/images/schallplatte.png
+	convert images/redguitar.jpg -resize x800 _site/images/redguitar.jpg
 
 _site/images/logo.png: images/Logo_Otto_Productions.svg
 	convert images/Logo_Otto_Productions.png -resize x300 _site/images/logo.png

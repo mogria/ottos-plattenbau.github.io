@@ -11,6 +11,6 @@ Dieses Projekt ist aus einigen Zuffällen entstanden:
 - Drum-Machine / 90s Trance / Sun Project
 - Gitarren-Samples / Looper
 
-![Red C.Giant E-Guitar used for this project](/images/redguitar.jpg)
+![Red C.Giant E-Guitar used for this project](/images/redguitar.png)
 
 SAMPLE
