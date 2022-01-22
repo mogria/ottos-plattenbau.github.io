@@ -8,6 +8,7 @@ Verschiedene Bandprojekte oder Mitglieder von folgenden Musikprojekten arbeiten 
 <!-- * **Fried Neurons**: Bandprojekt in Entwicklung -->
 <!-- * **Schadensfall**: Ein Trio welches eine Stoner Rock Band bilden. -->
 <!-- **Jonny Kiff**: Hip Hop / Deutschrap mit Paddl & mogle -->
+* [**Aufnahmestudio**](/projects/Studio.html): Gemeinsames Aufnahmestudio / Proberaum
 
 
 Zudem sind weitere Musikprojekte von weiteren Mitglieder am entstehen, welche in Zukunft hier aufgelistet werden.

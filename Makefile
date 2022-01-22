@@ -1,5 +1,5 @@
 # PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
-PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/projects/HAERT.html _site/projects/NERO_KROMA.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html _site/verein/Statuten.html _site/Impressum.html
+PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/projects/HAERT.html _site/projects/NERO_KROMA.html _site/projects/Studio.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html _site/verein/Statuten.html _site/Impressum.html
 
 .PHONY: all images styles deploy
 

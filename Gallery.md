@@ -1,4 +1,10 @@
-# Gallery
+# Gallerie
+
+## Studio
+
+Mehr dazu unter ![Projekte > Studio](/projects/Studio.html)
+
+## Bestehende Projekte
 
 ![Guesl](/images/gallery/GUESL_LIVE.png)
 
