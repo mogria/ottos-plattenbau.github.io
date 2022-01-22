@@ -1,5 +1,5 @@
 # PAGES=_site/Gallery.html _site/Home.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html
-PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html _site/verein/Statuten.html _site/Impressum.html
+PAGES=_site/Gallery.html _site/index.html _site/Projekte.html _site/projects/HAERT.html _site/projects/NERO_KROMA.html _site/README.html _site/Ueber_Uns.html _site/ogrrn/Help.html _site/verein/Verein.html _site/verein/Statuten.html _site/Impressum.html
 
 .PHONY: all images styles deploy
 
@@ -36,7 +36,10 @@ _site/images/logo.png: images/Logo_Otto_Productions.svg
 	convert images/Logo_Otto_Productions.png -resize x300 _site/images/logo.png
 	convert images/Logo_Otto_Productions.png -resize x768 _site/images/logo_big.png
 
-all: $(PAGES) _site/verein/Ottos_Plattenbau_Vereinstatuten.pdf _site/images _site/styles
+_site/projects:
+	mkdir _site/projects
+
+all: $(PAGES) _site/verein/Ottos_Plattenbau_Vereinstatuten.pdf _site/images _site/styles _site/projects
 	echo Build Complete
 
 deploy: all
