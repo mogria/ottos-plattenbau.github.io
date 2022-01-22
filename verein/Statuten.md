@@ -1,13 +1,16 @@
-# Musikerkollektiv Ottos Plattenbau
+# Musikkollektiv Ottos Plattenbau
 
-![Ottos Production Logo](../images/Logo_Otto_Productions.png)
+![Ottos Production Logo](../images/logo_big.png)
+
+**Hinweis**: Diese Statuten sind auch als PDF verfügbar:  
+[Vereinstatuten PDF](/verein/Ottos_Plattenbau_Vereinstatuten.pdf)
 
 ## Vereinstatuten (DRAFT)
 
 _Wichtig_: Es handelt sich hierbei um einen Entwurf, der noch nicht von der Generalversammlung verabschiedet wurde.
 
 
-Beim Musikerkollektiv "Ottos Plattenbau" handelt es sich um einen zusammenschluss von Musizierenden,
+Beim Musikkollektiv "Ottos Plattenbau" handelt es sich um einen zusammenschluss von Musizierenden,
 die sich als Verein zusammenschliessen wollen, um ihre Musikprojekte umzusetzen und einen gemeinsamen Ort für Kreatives schaffen ermöglichen.
 Der Verein soll Kunstschaffenden ermöglichen oder Ihre künstlerischen Tätigkeiten auszuüben, die mit Darbietungen von Musik (und deren Distribution?) zusammenhängen.
 Der Verein versteht sich als basisdemokratische, gemeinnützige, egalitäre und schwach hierarchische Organisation.
@@ -21,7 +24,7 @@ Der Verein versteht sich als basisdemokratische, gemeinnützige, egalitäre und 
 
 ## Zweck
 
-Der Zweck des Musikerkollektiv's Ottos Plattenbau ist es:
+Der Zweck des Musikkollektivs "Ottos Plattenbau" ist es:
 
 1. Musik zu geniessen
 2. Musikbegeisterte zusammenzubringen
