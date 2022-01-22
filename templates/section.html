@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+
+{% block content %}
+{{ section.description }}
+
+{{ section.content | safe }}
+
+<h2>Weitere Seiten im Abschnitt {{ section.title }}</h2>
+
+<ul class="pagenav">
+{% for page in section.pages %}
+<li><a href="{{ config.base_url}}/{{ page.path }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+
+{% endblock %}

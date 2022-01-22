@@ -1,8 +1,8 @@
 +++
-projectname = "The Broken Stringthesizer Theory"
+title = "The Broken Stringthesizer Theory"
 formed_in = 2021
+slug = "stringthesizer"
 +++
-# The Broken Stringthesizer Theory
 
 Beim Sound von the Broken Stringthesizer Theory wird probiert elektronische Musik mit Gitarre und diversen Effekten zu kombinieren.
 Gitarren Sounds sollen einerseits gesamplet werden, sollen aber auch teils Live gespielt werden.

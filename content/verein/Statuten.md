@@ -1,8 +1,7 @@
 +++
 title = "Vereinsstatuten: Musikkollektiv Ottos Plattenbau"
+slug = "statuten"
 +++
-# Musikkollektiv Ottos Plattenbau
-
 ![Ottos Production Logo](../images/logo_big.png)
 
 **Hinweis**: Diese Statuten sind auch als PDF verfügbar:  

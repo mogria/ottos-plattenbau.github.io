@@ -11,5 +11,8 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+# Don't copy gimp files into public/ folder
+ignored_content = ["*.xcf"]
+
 [extra]
 # Put all your custom variables here

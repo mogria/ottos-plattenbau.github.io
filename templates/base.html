@@ -6,36 +6,42 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ config.title }}{% endif %}</title>
 
   <!-- <meta name="copyright" content="4world" /> -->
-  <meta name="description" content="The Wyrd is the information network for 4world. {% if page.description %}{{ page.description }}{% endif %} " />
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}, {% endif %}{{ config.extra.keywords }}" />
+  <meta name="description" content="Die Offizielle Webseite von Ottos Plattenbau. {% if page.description %}{{ page.description }}{% endif %} " />
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}, {% endif %}{% if config.extra.keyswords %}{{ config.extra.keywords }}{% endif %}" />
 
   <link href="/main.css" type="text/css" />
+  <link type="text/css" href="{{ config.base_url | safe }}/main.css" rel="stylesheet" />
 
 </head>
 <body>
 
   <header class="container">
     <div id="logo">
-      <a href="/"><img src="/images/logo.png" height="300" alt="Logo Otto"></a>
+      <a href="/"><img src="{{ config.base_url }}/images/logo.png" height="300" alt="Logo Otto"></a>
       <h1>Ottos Plattenbau</h1>
 
       Ein Label und Musikkollektiv
     </div>
     <nav>
       <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/Projekte.html">Projekte</a></li>
-        <li><a href="/projects/Studio.html">Studio</a></li>
-        <li><a href="/Ueber_Uns.html">Über uns</a></li>
-        <li><a href="/Gallery.html">Gallerie</a></li>
+        <li><a href="{{ config.base_url }}">Home</a></li>
+        <li><a href="{{ config.base_url }}/projects">Projekte</a></li>
+        <li><a href="{{ config.base_url }}/projects/studio">Studio</a></li>
+        <li><a href="{{ config.base_url }}/about/">Über uns</a></li>
+        <li><a href="{{ config.base_url }}/gallery/">Gallerie</a></li>
         <!-- <li><a href="/Partner.html">Partner</a></li> -->
-        <li><a href="/verein/Verein.html">Verein</a></li>
+        <li><a href="{{ config.base_url }}/verein/">Verein</a></li>
       </ul>
     </nav>
   </header>
 
   <section id="content" class="container">
-    {{ content }}
+    {% if page.title %}
+    <h1>{{ page.title }}</h1>
+    {% endif %}
+
+    {% block content %}
+    {% endblock %}
   </section>
 
   <footer class="container">
@@ -43,10 +49,10 @@
 
     <nav>
       <ul>
-        <li> <a href="/Impressum.html">Impressum</a></li>
+        <li> <a href="/impressum">Impressum</a></li>
         <li> <a href="/feed.xml">RSS</a></li>
         <li><a href="https://codeberg.org/mkuettel/ottos-plattenbau-collective">Quellcode</a></li>
-        <li><a href="/verein/Statuten.html">Vereinstatuten</a></li>
+        <li><a href="/verein/statuten">Vereinstatuten</a></li>
       </ul>
     </nav>
 

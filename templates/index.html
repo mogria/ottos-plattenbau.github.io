@@ -4,8 +4,15 @@
 
 {{ section.description }}
 
+{{ section.content | safe }}
+
+<h2>Weiterführende Seiten:</h2>
+
+<ul class="pagenav">
 {% for page in section.pages %}
   <li><a href={{ page.path }}>{{ page.title }}</a></li>
 {% endfor %}
+</ul>
+
 
 {% endblock %}

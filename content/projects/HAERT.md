@@ -1,8 +1,8 @@
 +++
-projectname = "H(Ä)RT"
+title = "H(Ä)RT"
 formed_in = 2021
+slug = "hert"
 +++
-# H(Ä)RT
 
 H(Ä)RT ist im Jahre 2021 entstanden.
 H(Ä)RT hed im Moment zwei Mitglieder, de Moritz und de Adi.

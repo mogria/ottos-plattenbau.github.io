@@ -1,14 +1,14 @@
 +++
 title = "Gallerie"
+slig = "gallery"
 +++
-# Gallerie
 
 Hier sind und sollen weiterhin grossartige Momente festgehalten werden.
 Von Live-Auftritten von Musizierenen, Im Studio, oder einfach so...
 
 ## Studio
 
-Das Studio befindet sich noch im Aufbau. Mehr zu unserem Aufnahmestudio unter [Projekte > Studio](/projects/Studio.html).
+Das Studio befindet sich noch im Aufbau. Mehr zu unserem Aufnahmestudio unter [Projekte > Studio](/projects/studio).
 
 ## Bestehende Projekte
 

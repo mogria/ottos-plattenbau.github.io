@@ -1,15 +1,6 @@
 +++
 title = "Impressum"
 +++
-# Impressum
-
-Verantwortlich für den Inhalt der Seiten:
-
-Verein Ottos Plattenbau  
-vertreten durch Moritz Küttel  
-Rotbuchstrasse 1  
-8006 Zürich  
-[moritz_kuettel@fastmail.com](mailto:moritz_kuettel@fastmail.com)
 
 ## Copyright
 
@@ -28,12 +19,21 @@ Haftungsausschluss
 
 Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die durch die ungeprüfte Nutzung von Inhalten verknüpfter Seiten entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde. Dabei ist es gleichgültig, ob der Schaden direkter, indirekter oder finanzieller Natur ist oder ein sonstiger Schaden vorliegt, der sich aus Datenverlust, Nutzungsausfall oder anderen Gründen aller Art ergeben könnte. 
 
-## Bankverbindung für Spenden und Offlinezahlungen
 
-TODO: Vereinskonto
+## Verantwortlich für den Inhalt der Seiten:
 
-Bank XY
-BIC/SWIFT: 
-IBAN:
-Kto.Nr: 
-Inhaber: 
+Verein Ottos Plattenbau  
+vertreten durch Moritz Küttel  
+Rotbuchstrasse 1  
+8006 Zürich  
+[moritz_kuettel@fastmail.com](mailto:moritz_kuettel@fastmail.com)
+
+<!-- ## Bankverbindung für Spenden und Offlinezahlungen -->
+<!--  -->
+<!-- TODO: Vereinskonto -->
+<!--  -->
+<!-- Bank XY -->
+<!-- BIC/SWIFT:  -->
+<!-- IBAN: -->
+<!-- Kto.Nr:  -->
+<!-- Inhaber:  -->

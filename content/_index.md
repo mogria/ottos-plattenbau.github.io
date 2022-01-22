@@ -2,7 +2,7 @@
 title = "Home"
 +++
 # Home
-Das Musikkollektiv Ottos Plattenbau ist ein [Verein](/verein/Verein.html) für Musik- und Kulturschaffende in Zürich und der Umgebung.
+Das Musikkollektiv Ottos Plattenbau ist ein [Verein](/verein/) für Musik- und Kulturschaffende in Zürich und der Umgebung.
 
 ![Logo Ottos Plattenbau](images/logo_big.png)
 
@@ -12,7 +12,7 @@ Das Musikkollektiv Ottos Plattenbau ist ein [Verein](/verein/Verein.html) für M
 
 ## Neuste Projekte
 
-- [The Broken Stringthesizer Theory](/projects/The_Broken_Stringthesizer.html)
-- [Aufnahmestudio](/projects/Studio.html)
+- [The Broken Stringthesizer Theory](/projects/stringthesizer)
+- [Aufnahmestudio](/projects/studio)
 
-Mehr dazu auf der [Projekt Seite](/Projekte.html).
+Mehr dazu auf der [Projekt Seite](/projects/).
