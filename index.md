@@ -1,3 +1,4 @@
+# Home
 Das Musikkollektiv Ottos Plattenbau ist ein Verein für Musik- und Kulturschaffende in Zürich und der Umgebung.
 
 ![Logo Ottos Plattenbau](images/logo_big.png)
