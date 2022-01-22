@@ -1,0 +1,26 @@
+image: debian/stable
+packages:
+  - zola
+  - gnumake
+  - imagick
+sources:
+  - https://codeberg.org/mkuettel/ottos-plattenbau-collective
+secrets:
+  - #  04761e7b-573c-41ea-861d-891502c50767
+tasks:
+  - setup: |
+      cd ottos-plattenbau-collective
+      make
+  - build: |
+      cd ottos-plattenbau-collective
+      zola build
+  - test: |
+      cd ottos-plattenbau-collective
+      zola check
+# - deploy: |
+#     ssh-keyscan -H codeanarchy.org >> ~/.ssh/known_hosts
+#     cd ottos-plattenbau-collective
+#     revision=$(git rev-parse HEAD)
+#     ssh ottos-plattenbau-collective@codeanarchy.org "cd site; git reset --hard HEAD; git fetch --all; git checkout '$revision' -- ."
+#     ssh ottos-plattenbau-collective@codeanarchy.org 'cd site; composer install'
+#     ssh ottos-plattenbau-collective@codeanarchy.org 'cd site; php artisan migrate'

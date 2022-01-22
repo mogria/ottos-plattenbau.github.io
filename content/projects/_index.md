@@ -26,8 +26,8 @@ Diese Musikprojekte sind nicht direkt Teil von Ottos Plattenbau.
 Es bestehen jedoch schon lange Bekanntschaften wie auch Partnerschaften:
 
 * Sound Cloud von Adi:  
-  https://soundcloud.com/adam-stoev
+  [soundcloud.com/adam-stoev](https://soundcloud.com/adam-stoev)
 * Weitere HC-Punk-Band Band wo Moritz schon 7 Jahre lang Bass spielt:  
-  [Güssl HC/Punx us Zug](httpsL//xn--gssl-0ora.ch)
+  [Güssl HC/Punx us Zug](https://xn--gssl-0ra.ch)
 
 <!-- * Free-Tekkno: [Anemic Vulgarius](https://soundcloud.com/anemic-vulgarius) -->
