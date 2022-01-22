@@ -25,9 +25,6 @@ Schicke doch bei Interesse ein e-Mail mit dem Betreff `[OTTO] Vereinsbeitritt Ot
 
 Das Vereinsmail ist eine Mailingliste und ist das offizielle Kommunikationssystem für formelle Tätigkeiten am & rund um den Verein.
 Wirst du in den Verein aufgenommen, hast du auch die Möglichkeit in die Mailingliste aufgenommen zu werden und das Vereinsmails direkt zu erhalten.
-Zum einfachen Filtern, sollte jedes Vereinsmail die Zeichenkette `[OTTO]` im Betreff des Mails beinhalten.
-Das Vereinsmail ist nötig um Vorstösse und Initiativen transparent im Verein zu starten und die Mitglieder zu informieren.
-Es gibt Grundsätzlich die folgenden vier verschiedenen Typen von Vereinsmail welche klar am Betreff zu erkennen sind:
 
 [Vereinsmail und Mailing-Liste](/verein/mail)
 
