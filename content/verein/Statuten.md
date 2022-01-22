@@ -12,7 +12,7 @@ slug = "statuten"
 _Wichtig_: Es handelt sich hierbei um einen Entwurf, der noch nicht von der Generalversammlung verabschiedet wurde.
 
 Beim Musikkollektiv "Ottos Plattenbau" handelt es sich um einen Verein (Art. 60ff ZGB) und Zusammenschluss von Musizierenden.
-Wir wollen uns als Verein zusammenschliessen (Art. 23 Bundesverfassung), um ihre Musikprojekte umzusetzen und um einen gemeinsamen Ort zu haben um Kreatives schaffen. ()
+Wir wollen uns als Verein zusammenschliessen (Art. 23 Bundesverfassung), um ihre Musikprojekte umzusetzen und um einen gemeinsamen Ort zu haben um Kreatives schaffen.
 
 Der Verein soll Kunstschaffenden ermöglichen oder Ihre künstlerischen Tätigkeiten auszuüben, die mit Darbietungen von Musik (und deren Distribution?) zusammenhängen.
 Der Verein versteht sich als basisdemokratische, gemeinnützige, egalitäre und schwach hierarchische Organisation.
@@ -28,21 +28,8 @@ Der Zweck des Musikkollektivs "Ottos Plattenbau" ist es:
 
 ## Organisation
 
-Obwohl nach Art 67. ZGB beschriben wird das jedes Mitglied des Vereins das gleiche Stimmrecht hat.
-Wird dies in diesem Verein nach basisdemokratischen, konsensfördernen Massnahmen umgesetzt, indem
-jedem Mitglied ein sognenanntes Veto zusteht.
-Zudem wird für jede Entscheidung theoretisch jede Stimme jedes Mitgliedes benötigt.
-Da dies jedoch umständlich wäre jedes mal Stimmen zu zählen um zu sehen ob jedes Mitglied zustimmt,
-soll ein Mitglied einfach seine Stimme erheben und ein Veto einlegen, um die Entscheidung zu verhindern,
-mehr darüber zu diskutieren, um schlussendlich irgendwie einen Konsens zu finden.
-Solche Konsensmechanismen haben die Problematik, dass diese Entscheidungsprozesse verlangsamen können oder 
-gar Entscheidungen blockiert werden können.
-Jedoch ist Transparenz hoch geschrieben und die einzelnen Mitglieder können weitgehend autonom auf gleicher Ebene
-Entscheidungen treffen.
-
-Jedoch Art XXX ZGB benötigt ein Verein folgende Organe:
-
-Dementsprechend besteht der Verein aus den Organen der Generalversammlung, der Regulärversammlung, dem Vereinspräsident, und den zwei Kassier.
+Der Verein besteht nach Art 63 ZGB aus folgenden Organen:
+Der Generalversammlung, der Regulärversammlung, dem Vereinspräsident, und den zwei Kassier.
 Jedes dieser Organe ist verpflichtet sich bei der Entscheidungsfindung und Beschlüssen an den Konsensmechanismus (Beschrieben im Abschnitt "Konsens- & Entscheidungsfinden") zu halten.
 
 ### Organe
@@ -52,80 +39,6 @@ Die Vereinsorganisation beschreiben in den Vereinsstatuten haben nach Art. 63 ZG
 > 1. Soweit die Statuten über die Organisation und über das Verhältnis des Vereins zu seinen Mitgliedern keine Vorschriften aufstellen, fin­den die nachstehenden Bestimmungen Anwendung.
 > 2. Bestimmungen, deren Anwendung von Gesetzes wegen vorgeschrie­ben ist, können durch die Statuten nicht abgeändert werden.
 
-I. Vereins­ver­samm­lung
-1. Bedeutung und Einberufung
-Art. 64
-1 Die Versammlung der Mitglieder bildet das oberste Organ des Vereins.
-2 Sie wird vom Vorstand einberufen.
-3 Die Einberufung erfolgt nach Vorschrift der Statuten und überdies von Gesetzes wegen, wenn ein Fünftel der Mitglieder die Einberu­fung verlangt.
-
-2. Zuständigkeit
-Art. 65
-1 Die Vereinsversammlung beschliesst über die Aufnahme und den Aus­schluss von Mitgliedern, wählt den Vorstand und entscheidet in allen An­gelegenheiten, die nicht andern Organen des Vereins über­tragen sind.
-2 Sie hat die Aufsicht über die Tätigkeit der Organe und kann sie jederzeit abberu­fen, unbeschadet der Ansprüche, die den Abberufenen aus bestehenden Verträgen zustehen.
-3 Das Recht der Abberufung besteht, wenn ein wichtiger Grund sie rechtfertigt, von Gesetzes wegen.
-
-3. Vereins­beschluss
-a. Beschluss­fassung
-Art. 66
-1 Vereinsbeschlüsse werden von der Vereinsversammlung gefasst.
-2 Die schriftliche Zustimmung aller Mitglieder zu einem Antrag ist einem Be­schlusse der Vereinsversammlung gleichgestellt.
-
-b. Stimmrecht und Mehrheit
-Art. 67
-1 Alle Mitglieder haben in der Vereinsversammlung das gleiche Stimm­recht.
-2 Die Vereinsbeschlüsse werden mit Mehrheit der Stimmen der an­we­senden Mit­glieder gefasst.
-3 Über Gegenstände, die nicht gehörig angekündigt sind, darf ein Beschluss nur dann gefasst werden, wenn die Statuten es ausdrücklich gestatten.
-
-c. Ausschliessung vom Stimmrecht
-Art. 68
-Jedes Mitglied ist von Gesetzes wegen vom Stimmrechte ausge­schlos­sen bei der Beschlussfassung über ein Rechtsgeschäft oder ei­nen Rechtsstreit zwischen ihm, seinem Ehegatten oder einer mit ihm in gerader Linie verwandten Person einerseits und dem Vereine an­der­seits.
-
-II. Vorstand
-1. Rechte und Pflichten im Allgemeinen
-Art. 69
-Der Vorstand hat das Recht und die Pflicht, nach den Befugnissen, die die Statuten ihm einräumen, die Angelegenheiten des Vereins zu besorgen und den Verein zu vertreten.
-
-2. Buchführung
-Art. 69a84
-
-Der Vorstand führt die Geschäftsbücher des Vereins. Die Vorschriften des Obligationenrechts85 über die kaufmännische Buchführung und Rechnungslegung gelten sinngemäss.
-
-84 Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), (AS 2007 4791; BBl 2002 3148, 2004 3969). Fassung gemäss Anhang Ziff. 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 (AS 2012 6679; BBl 2008 1589).
-
-85 SR 220
-III. Revisions­stelle
-Art. 69b86
-
-1 Der Verein muss seine Buchführung durch eine Revisionsstelle ordentlich prüfen lassen, wenn zwei der nachstehenden Grössen in zwei aufeinander folgenden Geschäftsjahren überschritten werden:
-
-1.
-    Bilanzsumme von 10 Millionen Franken;
-2.
-    Umsatzerlös von 20 Millionen Franken;
-3.
-    50 Vollzeitstellen im Jahresdurchschnitt.
-
-2 Der Verein muss seine Buchführung durch eine Revisionsstelle eingeschränkt prüfen lassen, wenn ein Vereinsmitglied, das einer per­sönlichen Haftung oder einer Nachschusspflicht unterliegt, dies verlangt.
-
-3 Die Vorschriften des Obligationenrechts87 über die Revisionsstelle bei Aktiengesellschaften sind entsprechend anwendbar.
-
-4 In den übrigen Fällen sind die Statuten und die Vereinsversammlung88 in der Ordnung der Revision frei.
-
-86 Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 (AS 2007 4791; BBl 2002 3148, 2004 3969).
-
-87 SR 220
-
-88 Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – SR 171.10).
-IV. Mängel in der Organisation
-Art. 69c89
-1 Fehlt dem Verein eines der vorgeschriebenen Organe oder verfügt er über kein Rechtsdomizil an seinem Sitz mehr, so kann ein Mitglied oder ein Gläubiger dem Gericht beantragen, die erforderlichen Massnahmen zu ergreifen.90
-2 Das Gericht kann dem Verein insbesondere eine Frist zur Wieder­herstellung des rechtmässigen Zustandes ansetzen und, wenn nötig, einen Sachwalter ernennen.
-3 Der Verein trägt die Kosten der Massnahmen. Das Gericht kann den Verein verpflichten, den ernannten Personen einen Vorschuss zu leis­ten.
-4 Liegt ein wichtiger Grund vor, so kann der Verein vom Gericht die Abberufung von Personen verlangen, die dieses eingesetzt hat.
-
-
-In der folgenden Auflistung sind die Organe und deren Funktionen genauer beschrieben:
 
 * **Vereinsversammlung / Generalversammlung**:  
   Die Generalversammlung ist, das oberste und höchste Organ. (Art. 64 ZGB)
@@ -135,7 +48,23 @@ In der folgenden Auflistung sind die Organe und deren Funktionen genauer beschri
   Es ist nur dann möglich unter Anwendung des Konsensmechanismus, die Vereinsstatuten abzuändern, sich für einen neuen Vereinspräsidenten oder Kassier zu entscheiden.
   Alle Vorstösse und sonstige Entscheidungen unterliegen dem Konsensmechanismus zur Entscheidungsfindung, welcher im vorherigen Abschnitt beschrieben wurde.
   In Notfällen kann eine ausserordentliche Generalversammlung einberufen werden, wobei alle Vereinsmitglieder informiert werden müssen.
+
+  > 1. Bedeutung und Einberufung
+  > Art. 64
+  > 1 Die Versammlung der Mitglieder bildet das oberste Organ des Vereins.
+  > 2 Sie wird vom Vorstand einberufen.
+  > 3 Die Einberufung erfolgt nach Vorschrift der Statuten und überdies von Gesetzes wegen, wenn ein Fünftel der Mitglieder die Einberu­fung verlangt.
+
+  > 2. Zuständigkeit
+  > Art. 65
+  > 1 Die Vereinsversammlung beschliesst über die Aufnahme und den Aus­schluss von Mitgliedern, wählt den Vorstand und entscheidet in allen An­gelegenheiten, die nicht andern Organen des Vereins über­tragen sind.
+  > 2 Sie hat die Aufsicht über die Tätigkeit der Organe und kann sie jederzeit abberu­fen, unbeschadet der Ansprüche, die den Abberufenen aus bestehenden Verträgen zustehen.
+  > 3 Das Recht der Abberufung besteht, wenn ein wichtiger Grund sie rechtfertigt, von Gesetzes wegen.
+
+
+
 * **Regulärversammlung**:  
+
   Die Regulärversammlung findet wenn möglich wöchentlich unter Absprache der Mitglieder statt.
   Hier sollen sich die Vereinsmitglieder jeweils treffen und den Vereinszweck verfolgen,
   sowie auch die Entscheidungen fällen.
@@ -149,7 +78,103 @@ In der folgenden Auflistung sind die Organe und deren Funktionen genauer beschri
   Die beiden Kassier werden ebenfalls an der Generalversammlung ausgesucht.
   Sie beide ist verantwortlich für die Vereinsfinanzen und Vereinskonti und kontrollieren sich gegenseitig.
 * **Vorstand**:  
+
   TODO: Brauchen wir einen Vereinsvorstand?
+  > ZGB Art. 69
+  > Der Vorstand hat das Recht und die Pflicht, nach den Befugnissen, die die Statuten ihm einräumen, die Angelegenheiten des Vereins zu besorgen und den Verein zu vertreten.
+
+  > Art. 69a84
+
+  > Der Vorstand führt die Geschäftsbücher des Vereins. Die Vorschriften des Obligationenrechts85 über die kaufmännische Buchführung und Rechnungslegung gelten sinngemäss.
+
+
+
+### Mängel in der Organisation
+
+TODO: Das steht im gesetz? Einfach rausnehmen, dann gilt dies?
+> Art. 69c89
+> 1 Fehlt dem Verein eines der vorgeschriebenen Organe oder verfügt er über kein Rechtsdomizil an seinem Sitz mehr, so kann ein Mitglied oder ein Gläubiger dem Gericht beantragen, die erforderlichen Massnahmen zu ergreifen.90
+> 2 Das Gericht kann dem Verein insbesondere eine Frist zur Wieder­herstellung des rechtmässigen Zustandes ansetzen und, wenn nötig, einen Sachwalter ernennen.
+> 3 Der Verein trägt die Kosten der Massnahmen. Das Gericht kann den Verein verpflichten, den ernannten Personen einen Vorschuss zu leis­ten.
+> 4 Liegt ein wichtiger Grund vor, so kann der Verein vom Gericht die Abberufung von Personen verlangen, die dieses eingesetzt hat.
+
+
+### Beschlussfassung, Konsens- & Entscheidungsfindung
+
+Obwohl nach Art 67. ZGB beschriben wird das jedes Mitglied des Vereins das gleiche Stimmrecht hat.
+Wird dies in diesem Verein nach basisdemokratischen, konsensfördernen Massnahmen umgesetzt, indem
+jedem Mitglied ein sognenanntes Veto zusteht.
+Zudem wird für jede Entscheidung theoretisch jede Stimme jedes Mitgliedes benötigt.
+Da dies jedoch umständlich wäre jedes mal Stimmen zu zählen um zu sehen ob jedes Mitglied zustimmt,
+soll ein Mitglied einfach seine Stimme erheben und ein Veto einlegen, um die Entscheidung zu verhindern,
+mehr darüber zu diskutieren, um schlussendlich irgendwie einen Konsens zu finden.
+Solche Konsensmechanismen haben die Problematik, dass diese Entscheidungsprozesse verlangsamen können oder 
+gar Entscheidungen blockiert werden können.
+Jedoch ist Transparenz hoch geschrieben und die einzelnen Mitglieder können weitgehend autonom auf gleicher Ebene
+Entscheidungen treffen.
+Siehe auch ZGB Vereinsbeschluss: 
+>  3. Vereins­beschluss
+>  a. Beschluss­fassung
+>  Art. 66
+>  1 Vereinsbeschlüsse werden von der Vereinsversammlung gefasst.
+>  2 Die schriftliche Zustimmung aller Mitglieder zu einem Antrag ist einem Be­schlusse der Vereinsversammlung gleichgestellt.
+
+>  b. Stimmrecht und Mehrheit
+>  Art. 67
+>  1 Alle Mitglieder haben in der Vereinsversammlung das gleiche Stimm­recht.
+>  2 Die Vereinsbeschlüsse werden mit Mehrheit der Stimmen der an­we­senden Mit­glieder gefasst.
+>  3 Über Gegenstände, die nicht gehörig angekündigt sind, darf ein Beschluss nur dann gefasst werden, wenn die Statuten es ausdrücklich gestatten.
+
+>  c. Ausschliessung vom Stimmrecht
+>  Art. 68
+>  Jedes Mitglied ist von Gesetzes wegen vom Stimmrechte ausge­schlos­sen bei der Beschlussfassung über ein Rechtsgeschäft oder ei­nen Rechtsstreit zwischen ihm, seinem Ehegatten oder einer mit ihm in gerader Linie verwandten Person einerseits und dem Vereine an­der­seits.
+
+Der Konsensmechanismus entsteht aus folgenden Prinzipien und Regeln, an welche alle natürlichen Personen im Umgang mit dem Verein beachten sollen:
+
+* Über konstruktive Diskussionen (niemand hat Recht oder Unrecht) und am besten direkte Gespräche wird versucht einen **Konsens** (Kein Kompromiss und keine Abstimmung) zu finden.
+* Die Mitglieder die einen Vorstoss bringen oder Entscheidungen fällen wollen haben die Pflicht mittels Vereinsrundmail die anderen Vereinsmitglieder zu informieren.
+* Ziel ist das sich betroffene einer Entscheidung finden und miteinander ins Gespräch kommen, um gute Lösungen zu finden und Entscheidungen zu fällen.
+* Jede Person kann Entscheidungsvorschläge einbringen und kann das Vereinsrundmail dazu verwenden.
+* Es ist besser einen Konsens zu finden als einen Kompromiss machen zu müssen. Es macht wenig Sinn eine Orange zu halbieren, wenn einer nur Hunger hat und der andere nur die Schale verwerten will.
+* Wenn Personen nicht von einer Entscheidung betroffen sind oder wenig von der Materie verstehen,
+  wird empfohlen sich zurückzuhalten, sich oder gar zu enthalten.
+* Jedoch ist nachfragen, wenn etwas nicht verstanden wird, oder bei Interesse ist aber jederzeit erwünscht.
+* Ziel ist es, das andere so bessere Entscheidungen fällen können.
+
+
+Es wird davon ausgegangen das alle beteiligten Personen im guten Willen handeln.
+Jedoch bestehen trotzdem die folgenden Richtlinien und Regeln, um uninformierte, naive, oder im schlimmsten Falle leider gar böswillige Einflüsse gegen den Konsensmechanismus zu dämpfen, oder wo möglich komplett zu unterdrücken:
+
+* Es wird niemand zu etwas gezwungen was er nicht will.
+* Es wird auf _keiner Weise_ über irgendetwas abgestummen.
+* Es werden keine Stimmen gezählt, es gibt keine Stimmen.
+* Kein Kuhhandel oder ähnliches: Z.B. "Wenn du für diese Entscheidung bist, bin ich für dich bei der anderen Entscheidung"
+* Argumente gemacht welche darauf beruhen, dass eine gewisse Anzahl an natürlichen Personen eine Entscheidung gutheissen, haben kein Gewicht und werden so gut wie möglich nicht beachtet, oder werden besser gar nicht erst gemacht.
+* Schreien macht ein Argument _nicht_ besser, sondern meistens leider schlechter.
+* Jedes Vereinsmitglied hat das Recht auf ein _Veto_ für alle Entscheidungen
+  * Die Vereinsmitglieder sind verpflichtet die Macht dieses _Veto_ mit grösster Sorgfalt einzusetzen.
+  * Es sollte eigentlich nie zum Einsatz eines Vetos kommen, sonst wurde dieser Konsensmechanismus wahrscheinlich falsch verstanden
+  * Ein _Veto_ kann nur zurückgezogen werden von jener Person, welche das _Veto_ eingereicht hat.
+  * Es kann kein Veto _gegen_ ein anderes Veto eingelegt werden.
+  * Das _Veto_ kann eingesetzt werden, um eine Entscheidung zu verhindern.
+  * Dabei geht es nicht aber darum eine Entscheidung zu verhindern und gleich einzusetzen sobald einem etwas aufstösst, sondern:
+    * Das Thema zur Diskussion zu bringen, um einen Konsens zu finden
+    * Betroffene könnten Einschränkungen, welche durch die Entscheidung könnten zur Sprache bringen
+    * Im schlimmsten Falle soll ein Kompromiss gefunden werden.
+  * Bevor ein _Veto_ gemacht wird, wird wärmstes dieses im vor schon von der jeweiligen Person erwähnt werden, um der jeweiligen Person die Möglichkeit zu geben sich auszudrücken.
+* Es besteht die Gefahr das ein Konsens langwierig und zeitintensiv werden könnte da jede Entscheidung theoretisch durch ein Veto verhindert werden könnte:
+  * Zu detailierte und kleine Entscheidungen sollen von Einzelpersonen einfach mal gemacht werden, oft sind diese ja auch nicht sofort final und kann, falls doch Bedarf besteht, abgeändert oder gar erweitert werden.
+  * Es können auch Untergruppen für gewisse Entscheidungen gebildet werden.
+  * Personen, welche eine Entscheidung nicht betrifft, sollten sich standardmässig zurückhalten bei Diskussion, um Raum zu lassen für andere.
+  * Diskussionen können auch verschoben werden, um kurz eine Pause zu machen, oder falls mehr Informationen benötigt werden.
+  * Es kann darauf hingewiesen werden, dass man sich in unnötigen Diskussionen verheddert (Bike-Shedding, Beispiel: "Das Dach vom Velostand muss aber unbedingt gelb sein!") und die Entscheidung nicht so wichtig ist.
+  * Um Zeit zu sparen bei Entscheidungen zwischen zwei Sachen in Fällen und bei kleinen unwichtigen und unoffizellen Dingen,
+  trotzdem aber eine Entscheidung zeitnah gefällt werden muss und
+  dass es allen Parteimitgliedern egal ist oder diese gar nicht betroffen sind, entscheidet ein fairer Münzwurf.
+    * Es kann jederzeit ein _Veto_ gegen einen Münzwurf eingereicht werden.
+  * **Wichtig**: Es sollte wenn nur irgendwie möglich aber trotzdem _nie_ zu einem formellen Veto kommen!
+
+
 
 ### Mitgliedschaft
 
@@ -221,12 +246,13 @@ Dieser kann und soll Bedarf (auch indviduell) angepasst werden, sofern gute Grü
 
 Ziel ist es, das sich der Verein finanziell selber trägt.
 
-TODO: Haftung
+TODO: Haftung  
 Besteht ein Verlust, haftet ausschliesslich das Vereinskonto. In keiner weise Haften Mitlieder des Vereins.
 Der Verein macht keinen Gewinn, sondern würde diesen allenfalls dazu nutzen die Mitgliederbeiträge zu senken oder zu reinvestieren im Sinne des Vereinszwecks.
 
 ## Auflösung
 
+TODO: Rausnehmen
 Die Auflösung des Vereins kann jederzeit durch Vereinsbeschluss herbeigeführt werden. (Art. 76 ZGB)
 
 ## Vereinsinformationen
@@ -240,53 +266,6 @@ TODO: Entscheiden über Vereinsitz
   Moritz Küttel
   Rotbuchstrasse 1
   8006 Zürich
-
-### Konsens- & Entscheidungsfindung
-
-Der Konsensmechanismus entsteht aus folgenden Prinzipien und Regeln, an welche alle natürlichen Personen im Umgang mit dem Verein beachten sollen:
-
-* Über konstruktive Diskussionen (niemand hat Recht oder Unrecht) und am besten direkte Gespräche wird versucht einen **Konsens** (Kein Kompromiss und keine Abstimmung) zu finden.
-* Die Mitglieder die einen Vorstoss bringen oder Entscheidungen fällen wollen haben die Pflicht mittels Vereinsrundmail die anderen Vereinsmitglieder zu informieren.
-* Ziel ist das sich betroffene einer Entscheidung finden und miteinander ins Gespräch kommen, um gute Lösungen zu finden und Entscheidungen zu fällen.
-* Jede Person kann Entscheidungsvorschläge einbringen und kann das Vereinsrundmail dazu verwenden.
-* Es ist besser einen Konsens zu finden als einen Kompromiss machen zu müssen. Es macht wenig Sinn eine Orange zu halbieren, wenn einer nur Hunger hat und der andere nur die Schale verwerten will.
-* Wenn Personen nicht von einer Entscheidung betroffen sind oder wenig von der Materie verstehen,
-  wird empfohlen sich zurückzuhalten, sich oder gar zu enthalten.
-* Jedoch ist nachfragen, wenn etwas nicht verstanden wird, oder bei Interesse ist aber jederzeit erwünscht.
-* Ziel ist es, das andere so bessere Entscheidungen fällen können.
-
-
-Es wird davon ausgegangen das alle beteiligten Personen im guten Willen handeln.
-Jedoch bestehen trotzdem die folgenden Richtlinien und Regeln, um uninformierte, naive, oder im schlimmsten Falle leider gar böswillige Einflüsse gegen den Konsensmechanismus zu dämpfen, oder wo möglich komplett zu unterdrücken:
-
-* Es wird niemand zu etwas gezwungen was er nicht will.
-* Es wird auf _keiner Weise_ über irgendetwas abgestummen.
-* Es werden keine Stimmen gezählt, es gibt keine Stimmen.
-* Kein Kuhhandel oder ähnliches: Z.B. "Wenn du für diese Entscheidung bist, bin ich für dich bei der anderen Entscheidung"
-* Argumente gemacht welche darauf beruhen, dass eine gewisse Anzahl an natürlichen Personen eine Entscheidung gutheissen, haben kein Gewicht und werden so gut wie möglich nicht beachtet, oder werden besser gar nicht erst gemacht.
-* Schreien macht ein Argument _nicht_ besser, sondern meistens leider schlechter.
-* Jedes Vereinsmitglied hat das Recht auf ein _Veto_ für alle Entscheidungen
-  * Die Vereinsmitglieder sind verpflichtet die Macht dieses _Veto_ mit grösster Sorgfalt einzusetzen.
-  * Es sollte eigentlich nie zum Einsatz eines Vetos kommen, sonst wurde dieser Konsensmechanismus wahrscheinlich falsch verstanden
-  * Ein _Veto_ kann nur zurückgezogen werden von jener Person, welche das _Veto_ eingereicht hat.
-  * Es kann kein Veto _gegen_ ein anderes Veto eingelegt werden.
-  * Das _Veto_ kann eingesetzt werden, um eine Entscheidung zu verhindern.
-  * Dabei geht es nicht aber darum eine Entscheidung zu verhindern und gleich einzusetzen sobald einem etwas aufstösst, sondern:
-    * Das Thema zur Diskussion zu bringen, um einen Konsens zu finden
-    * Betroffene könnten Einschränkungen, welche durch die Entscheidung könnten zur Sprache bringen
-    * Im schlimmsten Falle soll ein Kompromiss gefunden werden.
-  * Bevor ein _Veto_ gemacht wird, wird wärmstes dieses im vor schon von der jeweiligen Person erwähnt werden, um der jeweiligen Person die Möglichkeit zu geben sich auszudrücken.
-* Es besteht die Gefahr das ein Konsens langwierig und zeitintensiv werden könnte da jede Entscheidung theoretisch durch ein Veto verhindert werden könnte:
-  * Zu detailierte und kleine Entscheidungen sollen von Einzelpersonen einfach mal gemacht werden, oft sind diese ja auch nicht sofort final und kann, falls doch Bedarf besteht, abgeändert oder gar erweitert werden.
-  * Es können auch Untergruppen für gewisse Entscheidungen gebildet werden.
-  * Personen, welche eine Entscheidung nicht betrifft, sollten sich standardmässig zurückhalten bei Diskussion, um Raum zu lassen für andere.
-  * Diskussionen können auch verschoben werden, um kurz eine Pause zu machen, oder falls mehr Informationen benötigt werden.
-  * Es kann darauf hingewiesen werden, dass man sich in unnötigen Diskussionen verheddert (Bike-Shedding, Beispiel: "Das Dach vom Velostand muss aber unbedingt gelb sein!") und die Entscheidung nicht so wichtig ist.
-  * Um Zeit zu sparen bei Entscheidungen zwischen zwei Sachen in Fällen und bei kleinen unwichtigen und unoffizellen Dingen,
-  trotzdem aber eine Entscheidung zeitnah gefällt werden muss und
-  dass es allen Parteimitgliedern egal ist oder diese gar nicht betroffen sind, entscheidet ein fairer Münzwurf.
-    * Es kann jederzeit ein _Veto_ gegen einen Münzwurf eingereicht werden.
-  * **Wichtig**: Es sollte wenn nur irgendwie möglich aber trotzdem _nie_ zu einem formellen Veto kommen!
 
 ### Mitglieder
 
