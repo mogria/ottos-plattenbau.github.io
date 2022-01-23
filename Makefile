@@ -9,8 +9,8 @@ content/verein/Ottos_Plattenbau_Vereinstatuten.pdf: content/verein/Statuten.md
 
 all: content/verein/Ottos_Plattenbau_Vereinstatuten.pdf
 	zola build
-	echo Build Complete
 
 deploy: all
-	rsync public/* -Cavz otto-deploy@codeanarchy.org:ottopage/_site
+	zola build
+	scp -r public/ otto-deploy@codeanarchy.org:ottopage
 
