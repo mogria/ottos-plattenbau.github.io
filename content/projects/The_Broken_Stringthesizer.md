@@ -17,4 +17,7 @@ Dieses Projekt ist aus einigen Zuffällen entstanden:
 
 ![Red C.Giant E-Guitar used for this project](/images/redguitar.png)
 
-SAMPLE
+<!-- TODO: UPLOAD SAMPLE of broken string with a beat and stuff-->
+<!-- maiden - trooper bassline are triplets, use for song / remix-->
+<!-- the generator remix .... -->
+<!-- Logo: -/- --!>
